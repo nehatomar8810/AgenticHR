@@ -12,8 +12,12 @@ An AI-powered recruitment platform that revolutionizes the hiring process throug
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 </div>
+
 ## 🔗 Prototype
-👉 **Live Prototype:** [Click here to view](https://thunderous-gingersnap-7f707c.netlify.app/)
+<a href="https://thunderous-gingersnap-7f707c.netlify.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/ce543b5d-b706-4dd4-bfe2-449cc3664f03" width="900">
+</a>
+
 
 ## 🌟 Features
 
