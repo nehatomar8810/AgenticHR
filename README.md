@@ -28,12 +28,16 @@ An AI-powered recruitment platform that revolutionizes the hiring process throug
 - ✉️ Automated interview invitation system
 - 📈 Real-time application tracking and monitoring
 
+## 🌟 Architecture
+<img width="970" height="537" alt="Screenshot 2025-11-27 202927" src="https://github.com/user-attachments/assets/45e8c46b-61f2-412c-b999-7065850edaff" />
+
 ## 🔄 Detailed Workflow
 
 ### 1. Job Management
 - **CSV Upload**: Recruiters upload jobs via CSV with fields:
   - Job Title
   - Job Description
+
   - Threshold (minimum match score)
   - Max Candidates (selection limit)
 - **AI Processing**: System automatically generates concise summaries for each job
